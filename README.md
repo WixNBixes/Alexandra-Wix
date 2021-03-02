@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Portfolio for Alex Wix
 
-You can use the [editor on GitHub](https://github.com/WixNBixes/WixNBixes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a young, enthusiastic and ambitious woman who wants to involve herself in software development. I learned to code initially at college and after I achieved my A levels, I didn't really return to it until lockdown started in 2020. Since then, I've been working hard in my spare time honing my skills and achieving accreditations in C# and Python as well as completing courses on Java.
 
-### Markdown
+### Short Term Goals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For 2021, I want to achieve two certifications in Java (OCA: Java SE8 Programmer IZ0-808 and OCP Java SE8 Programmer II). I also want to create a program in Python and Java to put on GitHub and update them to a reasonable standard. I would also want to learn how to code and use Unity engine so I can experiment with game development.
 
-```markdown
-Syntax highlighted code block
+Before the end of the year I would like the opportunity to prove myself professionally in a software development environment. As someone who finds satisfaction in solving problems creatively and wants the chance to develop projects from the ground up, it would be an amazing achievement for me if I could involve myself in such a vibrant, growing and challenging industry.
 
-# Header 1
-## Header 2
-### Header 3
+### Long Term Goals
 
-- Bulleted
-- List
+I want to learn more languages and eventually get to the point where I can start to improve myself in a way that would involve QA testing. I'm currently a network maintenance engineer, which means I tend to use my skills to solve problems on customer sites to bring them back online. I'm very good at fault finding because I understand how networks operate and can easily narrow down what the problem might be even before I arrive at site. I want to one day apply this to software development and combine them.
 
-1. Numbered
-2. List
+I am also trying to develop myself in a way where I can feel comfortable and confident enough to lead projects and a team to complete them within a deadline. This is something I feel I can't do in my current workspace, as there are individuals who aren't willing to work within a team or be part of one. I would want to share my passion with others, inspire and encourage them to develop the project the best way it can rather than harass them until it's done.
 
-**Bold** and _Italic_ and `Code` text
+## Contact Me
 
-[Link](url) and ![Image](src)
-```
+[Please see my latest projects on GitHub](https://github.com/WixNBixes)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WixNBixes/WixNBixes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Please see my CV](https://onedrive.live.com/embed?cid=6DB48F97EFC09A7A&amp;resid=6DB48F97EFC09A7A%211240&amp;authkey=AMa6VEfJkf74qEk&amp;em=2)
